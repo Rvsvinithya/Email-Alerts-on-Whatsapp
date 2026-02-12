@@ -1,8 +1,6 @@
 # Email-Alerts-on-Whatsapp
 A web application that enables users to receive email notifications directly on WhatsApp, improving communication efficiency and real-time alerting.
 
-This project was developed as part of Mini Project-II for the Bachelor of Engineering (Information Technology) program at M.V.S.R Engineering College.
-
  
 **Project Overview**
 
