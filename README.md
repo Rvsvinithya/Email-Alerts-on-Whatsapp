@@ -1,4 +1,57 @@
 # Email-Alerts-on-Whatsapp
+A web application that enables users to receive email notifications directly on WhatsApp, improving communication efficiency and real-time alerting.
+
+This project was developed as part of Mini Project-II for the Bachelor of Engineering (Information Technology) program at M.V.S.R Engineering College.
+
+ 
+**Project Overview**
+
+In today’s fast-paced digital world, users may miss important emails due to notification overload. This project bridges that gap by integrating Email services with WhatsApp messaging, ensuring users receive instant alerts on WhatsApp whenever a new email arrives.
+
+
+**The application uses:**
+React.js – Frontend
+Node.js & Express.js – Backend
+Twilio WhatsApp API – WhatsApp Integration
+Docker – Deployment
+
+
+
+
+**System Architecture**
+
+User connects email account, Backend monitors incoming emails, Email content is processed, WhatsApp message is triggered using Twilio API, User receives alert on WhatsApp instantly
+
+
+
+
+**Features**
+Real-time email notifications
+WhatsApp message alerts
+Secure API integration
+Responsive React frontend
+Fast and lightweight backend using Node.js
+Docker support for deployment
+
+
+
+**Tech Stack**
+
+Frontend
+React.js
+HTML5
+CSS3
+JavaScript
+Backend
+Node.js
+Express.js
+APIs & Tools
+Twilio WhatsApp Sandbox
+Node Package Manager (NPM)
+Docker
+
+
+
 
 
 # Getting Started with Create React App
